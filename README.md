@@ -1,4 +1,3 @@
-
 <!-- ============================================================
      Priyanka Vangala — GitHub Profile README
 ============================================================= -->
@@ -19,11 +18,11 @@
 
 Final-year CSE student focused on **Java, SAP ABAP, Full-Stack Development, AI/ML, and DSA**. I enjoy building practical applications — from AI-powered learning tools to secure web applications — while continuously improving my problem-solving skills.
 
-* 🎯 **Career Goals:** Full Stack Developer · SAP ABAP Developer · AI/ML Engineer
-* 📍 **Location:** Andhra Pradesh, India
-* 🎓 **Education:** B.Tech CSE, Sri Vasavi Engineering College
-* 💡 **Interests:** Learning new technologies, Listening to music, Building real-world projects
-* ⚡ **Fun Fact:** I enjoy turning ideas into real projects — from AI-powered applications to SAP ABAP solutions.
+- 🎯 **Career Goals:** Full Stack Developer · SAP ABAP Developer · AI/ML Engineer
+- 📍 **Location:** Andhra Pradesh, India
+- 🎓 **Education:** B.Tech CSE, Sri Vasavi Engineering College
+- 💡 **Interests:** Learning new technologies, Listening to music, Building real-world projects
+- ⚡ **Fun Fact:** I enjoy turning ideas into real projects — from AI-powered applications to SAP ABAP solutions.
 
 <!-- ================= TECH STACK ================= -->
 
@@ -31,24 +30,29 @@ Final-year CSE student focused on **Java, SAP ABAP, Full-Stack Development, AI/M
 
 ### Languages
 
-
-
-\
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 
-
-\
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend & Databases
 
-
-
-\
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ### Tools & Platforms
 
-\
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <!-- ================= FEATURED PROJECTS ================= -->
 
@@ -92,29 +96,29 @@ The platform uses transcript extraction and AI-powered processing to help learne
 
 ## 🏆 Achievements & Certifications
 
-* 🏅 AI Skills Fest 2026
-* 🏅 MongoDB Associate Developer
-* 🏅 Microsoft Certified: Azure AI Fundamentals
-* 🏅 SAP Certified Back-End Developer — ABAP Cloud
+- 🏅 AI Skills Fest 2026
+- 🏅 MongoDB Associate Developer
+- 🏅 Microsoft Certified: Azure AI Fundamentals
+- 🏅 SAP Certified Back-End Developer — ABAP Cloud
 
 <!-- ================= CURRENTLY LEARNING ================= -->
 
 ## 📚 Currently Learning
 
-* 🔹 Data Structures & Algorithms
-* 🔹 Advanced Java
-* 🔹 SAP ABAP
-* 🔹 AI/ML & Generative AI
-* 🔹 Full-Stack Development
+- 🔹 Data Structures & Algorithms
+- 🔹 Advanced Java
+- 🔹 SAP ABAP
+- 🔹 AI/ML & Generative AI
+- 🔹 Full-Stack Development
 
 <!-- ================= COLLABORATION ================= -->
 
 ## 🤝 Open to Collaborate On
 
-* 🌱 Open-source projects
-* 💼 Freelance opportunities
-* 🔬 Research projects
-* 🚀 Startup ideas
+- 🌱 Open-source projects
+- 💼 Freelance opportunities
+- 🔬 Research projects
+- 🚀 Startup ideas
 
 <!-- ================= CONNECT ================= -->
 
@@ -122,10 +126,18 @@ The platform uses transcript extraction and AI-powered processing to help learne
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyankavangala21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-vangala-705a05286/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priya-2189)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Priyankavangala/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vangalapriyanka/)
+
 </div>
 
 <br>
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Priya-2189&color=blueviolet&style=flat-square)
 
 </div>
