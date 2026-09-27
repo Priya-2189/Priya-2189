@@ -1,8 +1,4 @@
-<!-- ============================================================
-     Priyanka Vangala — GitHub Profile README
-     Edit any text below directly. Section markers (<!-- ... -->)
-     show you where to update content later.
-============================================================= -->
+
 
 <div align="center">
 
