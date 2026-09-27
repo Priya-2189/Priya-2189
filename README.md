@@ -82,15 +82,7 @@ The platform uses transcript extraction and AI-powered processing to help learne
 
 <!-- ================= GITHUB STATS ================= -->
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Priya-2189&show_icons=true&theme=tokyonight&count_private=true" alt="Priyanka's GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-2189&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-</div>
 
 <!-- ================= CERTIFICATIONS ================= -->
 
